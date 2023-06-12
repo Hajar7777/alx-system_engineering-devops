@@ -1,2 +1,2 @@
-#!/bbin/bash
-find /etc/passwd -type f -name "root" 
+#!/bin/bash
+find passwd -type f -name "root"

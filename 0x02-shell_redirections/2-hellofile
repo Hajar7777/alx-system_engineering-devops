@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwrd | fmt
+ls /etc/passwd

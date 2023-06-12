@@ -1,0 +1,2 @@
+#!/bbin/bash
+find /etc/passwd -type f -name "root" 
